@@ -1,0 +1,2 @@
+printf 1 main 2 int 3 return 4 double 5 char 6 for 7 while 8 break 9 continue 10 while 11 \n 12 %d 13
+000

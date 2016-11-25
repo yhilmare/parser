@@ -1,0 +1,1 @@
+intmain(){doublec=12.69;intabc=15632;intbe=54589;for(inti=0;i<100;i++){printf("%d\n",i);}printf("%d\n",(a+b));return0;}
